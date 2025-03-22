@@ -2,4 +2,5 @@ datasets/*
 datasets
 __pycache__
 setup.bash
-
+*.xlsx
+*.csv
